@@ -3,5 +3,6 @@ public class Main {
         System.out.println("Hello, Git!");
         System.out.println("for step 7");
         System.out.println("First change from person B");
+        System.out.println("Another change by Person A");
     }
 }
